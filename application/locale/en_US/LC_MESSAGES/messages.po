@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-07-31 21:08+0200\n"
+"PO-Revision-Date: 2017-07-31 21:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: content/themes/openproduction/modules/welcome/welcome.php:1
+msgid "supa voew"
+msgstr "Tu coś nowego"
+
+#: content/themes/openproduction/partials/header.php:162
+msgid "Polski jakiam "
+msgstr "Polish"
+
+#: content/themes/openproduction/partials/header.php:166
+msgid "Angielski"
+msgstr "Huja"
+
+#: content/themes/openproduction/partials/header.php:396
+msgid "Welcome to CodeIgniter"
+msgstr "Przetlumaczone gowno"
+
+#: user_guide/_static/doctools.js:142
+msgid "Permalink to this headline"
+msgstr ""
+
+#: user_guide/_static/doctools.js:148
+msgid "Permalink to this definition"
+msgstr ""
+
+#: user_guide/_static/doctools.js:180
+msgid "Hide Search Matches"
+msgstr ""
+
+#: user_guide/_static/searchtools.js:299
+msgid "Searching"
+msgstr ""
+
+#: user_guide/_static/searchtools.js:304
+msgid "Preparing search..."
+msgstr ""
+
+#: user_guide/_static/searchtools.js:461
+msgid "Search Results"
+msgstr ""
+
+#: user_guide/_static/searchtools.js:463
+msgid ""
+"Your search did not match any documents. Please make sure that all words are "
+"spelled correctly and that you've selected enough categories."
+msgstr ""
+
+#: user_guide/_static/searchtools.js:465
+#, javascript-format
+msgid "Search finished, found %s page(s) matching the search query."
+msgstr ""
+
+#: user_guide/_static/searchtools.js:517
+msgid ", in "
+msgstr ""
